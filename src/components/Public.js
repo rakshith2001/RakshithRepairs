@@ -15,7 +15,7 @@ const Public = () => {
                     <a href="tel:+91 XXXXXXXXX">(+91) XXX-XXX-XXXX</a>
                 </address>
                 <br />
-                <p>Owner: Rakshith Ravindra</p>
+                <p>Owner: Rakshith</p>
             </main>
             <footer>
                 <Link to="/login">Employee Login</Link>
